@@ -13,6 +13,11 @@ elixir(function(mix) {
         blade: true
     });
 
-    //delete less
+
+    mix.less(["resources/assets/less/pages/home.less"], "public/css/home.css");//delete less
+
+
+    mix.scripts(["components/layout.js", "pages/home.js"], "public/js/home.min.js");
+
 
 });
