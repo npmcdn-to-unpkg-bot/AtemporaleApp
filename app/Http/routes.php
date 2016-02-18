@@ -29,4 +29,4 @@ Route::get('/', function () {
 Route::group(['middleware' => ['web']], function () {
     //
 });
-Route::get('/home', ['as'=>'public.home', 'uses'=>'PublicController@home']);
+Route::get('/', ['as'=>'public.home', 'uses'=>'PublicController@home']);
