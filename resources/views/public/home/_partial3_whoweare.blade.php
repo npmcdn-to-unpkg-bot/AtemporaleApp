@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row">
           <col-lg-3>
-            <h1 class="section-title show-counter">Who We Are <small>The who, what and why our company exists</small>
+            <h1 class="section-title show-counter">Quem somos <small>The who, what and why our company exists</small>
             </h1>
           </col-lg-3>
           <div class="col-lg-8 col-lg-push-1">

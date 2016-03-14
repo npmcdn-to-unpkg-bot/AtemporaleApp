@@ -2,15 +2,15 @@
 
 @section('Title')
 
-<title>Testo da inserire</title>@stop
+<title>Atemporale Design - Estratégias Criativas de Comunicação e Design </title>@stop
 
 @section('MetaDescription')
 
-<meta name="description" content="aaa"/>@stop
+<meta name="description" content="Você sabe o que fazer para sair da crise? Nós sim! Investir em Design com a estratégia de comunicação personalizada para a sua empresa é o caminho para construir oportunidades e gerar valor, mesmo em tempos difíceis. Vamos conversar!?"/>@stop
 
 @section('MetaKeywords')
 
-<meta name="keywords" content="aaa, aaa, aaa"/>@stop
+<meta name="keywords" content="site, atemporal, atemporale design, design e comunicação visiva, identidade visual, construção de logos, branding, websites, escritorios de comunicação, logotipo BH, aaa"/>@stop
 
 @section('cssPagina')
 

@@ -8,11 +8,11 @@
           <div class="row">
             <div class="col-md-12">
               <div class="splash-text">
-                <h4 class="splash-intro"><a href="#">Hello there!</a></h4>
-                <h1 class="splash-headline">We are Hy<span class="text-primary">dro</span>gen
+                <h4 class="splash-intro"><a href="#">Ciao!</a></h4>
+                <h1 class="splash-headline">somos Atempor<span class="text-primary">ale</span>
                 </h1>
                 <div class="splash-description">
-                  <p>New York based digital agency who loves designing great websites
+                  <p>Um estúdio de Design apaixonado por projetar estratégias Criativas de comunicação e Design
                   </p>
                 </div>
               </div>
