@@ -216,7 +216,7 @@ blockquote p:after {
 	Text Colors
 ============================================================================= */
 .text-primary {
-  color: #ec005f !important;
+  color: #7e3f91 !important;
 }
 .text-success {
   color: #5cb85c !important;
@@ -415,7 +415,7 @@ ul.check-list li:before {
 }
 .splash-slider .cycle-prev:hover,
 .splash-slider .cycle-next:hover {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .splash-slider .cycle-prev:hover:before,
 .splash-slider .cycle-next:hover:before {
@@ -518,7 +518,7 @@ ul.check-list li:before {
 .splash-text .splash-intro a,
 .splash-text .splash-intro span {
   display: inline-block;
-  background: #ec005f;
+  background: #7e3f91;
   padding: 20px;
   padding: 5px 10px;
   color: #fff;
@@ -643,7 +643,7 @@ ul.check-list li:before {
   line-height: 44px;
 }
 .site-footer .footer-bottom .social-list a:hover {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .site-footer .footer-bottom:first-child .footer-text,
 .site-footer .footer-widgets + .footer-bottom .footer-text {
@@ -673,7 +673,7 @@ ul.check-list li:before {
   width: 100%;
   position: relative;
   z-index: 999;
-  background-color: #fff;
+  background-color: #784184;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
@@ -691,16 +691,18 @@ ul.check-list li:before {
 }
 .header-inner .brand {
   width: 50%;
-  height: 70px;
-  padding: 22px 0;
+  height: 82px;
+  padding: 5px 0;
   position: absolute;
   top: 0;
   z-index: 222;
+
 }
 .header-inner .brand a {
   display: block;
   white-space: nowrap;
   height: 100%;
+
 }
 .header-inner .brand a img {
   max-width: 100%;
@@ -720,7 +722,7 @@ ul.check-list li:before {
   height: 20px;
   top: 25px;
   right: 0;
-  border: 4px solid #777;
+  border: 4px solid #784184;
   border-width: 4px 0;
 }
 .main-nav .nav-toggle:before {
@@ -730,7 +732,7 @@ ul.check-list li:before {
   width: 100%;
   top: 4px;
   height: 4px;
-  background-color: #777;
+  background-color: #784184;
 }
 .main-nav ul {
   position: relative;
@@ -740,10 +742,10 @@ ul.check-list li:before {
   line-height: 16px;
   font-weight: 400;
   position: relative;
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #784184;
 }
 .main-nav ul li a {
-  color: #111;
+  color: #eee;
   padding: 13px 57px 13px 15px;
   display: block;
   position: relative;
@@ -757,8 +759,8 @@ ul.check-list li:before {
   width: 42px;
   height: 42px;
   text-align: center;
-  color: #777;
-  border-left: 1px solid #e8e8e8;
+  color: #f00;
+  border-left: 1px solid #f00;
 }
 .main-nav ul li a .sub-toggle:before {
   font-family: 'FontAwesome';
@@ -774,10 +776,11 @@ ul.check-list li:before {
 .main-nav ul li a:hover,
 .main-nav ul li.active > a,
 .main-nav ul li.current-menu-item > a {
-  color: #ec005f;
+  color: #baa3c1;
 }
 .main-nav ul li li {
   margin-left: 30px;
+  background-color: #ff0;
 }
 .main-nav ul,
 .main-nav ul ul {
@@ -857,7 +860,7 @@ ul.check-list li:before {
 }
 .hydrogen-theme .owl-page span,
 .rsHydrogen .rsBullet span {
-  background-color: #ec005f;
+  background-color: #7e3f91;
   display: block;
   width: 8px;
   height: 8px;
@@ -952,7 +955,7 @@ ul.check-list li:before {
   transition: background-color 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 .rsHydrogen .rsArrowIcn:hover {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .rsHydrogen .rsArrowIcn:before {
   font-family: 'FontAwesome';
@@ -987,7 +990,7 @@ ul.check-list li:before {
   cursor: pointer;
 }
 .rsHydrogen .rsPlayBtn:hover .rsPlayBtnIcon {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .rsHydrogen .rsPlayBtnIcon {
   width: 64px;
@@ -1032,7 +1035,7 @@ ul.check-list li:before {
   transition: background-color 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 .rsHydrogen .rsCloseVideoBtn:hover {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .rsHydrogen .rsCloseVideoBtn.rsiOSBtn {
   top: -38px;
@@ -1166,7 +1169,7 @@ ul.check-list li:before {
 .page-title small > .highlight {
   display: inline-block;
   padding: 5px 15px;
-  background-color: #ec005f;
+  background-color: #7e3f91;
   color: #fff;
   margin: 5px 0;
   font-size: 16px;
@@ -1198,7 +1201,7 @@ ul.check-list li:before {
   left: 0;
   width: 60px;
   height: 5px;
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .section-title.show-counter {
   counter-increment: section-counter;
@@ -1277,7 +1280,7 @@ ul.check-list li:before {
   height: 24px;
   line-height: 24px;
   margin-right: 15px;
-  color: #ec005f;
+  color: #7e3f91;
   -webkit-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
@@ -1308,7 +1311,7 @@ ul.check-list li:before {
 .icon-box.boxed:hover .icon,
 .icon-box.circled.touch .icon,
 .icon-box.boxed.touch .icon {
-  background-color: #ec005f;
+  background-color: #7e3f91;
   color: #fff;
 }
 .icon-box.circled .icon {
@@ -1362,7 +1365,7 @@ ul.check-list li:before {
   text-align: center;
   text-decoration: none;
   color: #fff;
-  background-color: #ec005f;
+  background-color: #7e3f91;
   -webkit-transform-origin: 100%;
   -moz-transform-origin: 100%;
   -ms-transform-origin: 100%;
@@ -1445,7 +1448,7 @@ ul.check-list li:before {
   background-color: transparent;
 }
 .team-popup .team-content .social-list a:hover {
-  color: #ec005f;
+  color: #7e3f91;
 }
 @media (min-width: 768px) {
   .team-popup .team-content {
@@ -1472,7 +1475,7 @@ ul.check-list li:before {
   line-height: 1;
   margin-bottom: 5px;
   text-transform: uppercase;
-  color: #ec005f;
+  color: #7e3f91;
 }
 .counter .label {
   padding: 0;
@@ -1566,7 +1569,7 @@ ul.check-list li:before {
   margin-bottom: 20px;
   border-radius: 50%;
   color: #fff;
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .tweet-slider:before {
   content: '\f099';
@@ -2096,7 +2099,7 @@ ul.check-list li:before {
 }
 .media .overlay a:hover,
 .slider-media .overlay a:hover {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .media .overlay.transparent,
 .slider-media .overlay.transparent {
@@ -2157,7 +2160,7 @@ ul.check-list li:before {
 .slider-media.touch figure figcaption a,
 .slider-media:hover figure figcaption span,
 .slider-media.touch figure figcaption span {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 /* ==========================================================================
 	Tab Widget
@@ -2218,7 +2221,7 @@ ul.check-list li:before {
 .projects .filter li.active a,
 .projects .filter li:hover a {
   color: #fff;
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .projects .filter a {
   display: block;
@@ -2323,7 +2326,7 @@ ul.check-list li:before {
   width: 44px;
   height: 44px;
   color: #fff;
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 .projects .project-image .overlay .actions a .fa,
 .projects .project-image .overlay .actions a .gi {
@@ -2382,7 +2385,7 @@ ul.check-list li:before {
   font-size: 64px;
 }
 .projects .project-load-more a:hover {
-  background-color: #ec005f;
+  background-color: #7e3f91;
 }
 /* ==========================================================================
 	Project Details
@@ -2444,7 +2447,7 @@ ul.check-list li:before {
 }
 .project-details-popup .project-controls button:hover {
   color: #fff;
-  background-color: #ec005f;
+  background-color: #7e3f91
 }
 .project-details-popup .project-controls button .fa,
 .project-details-popup .project-controls button .gi {
@@ -2486,7 +2489,7 @@ ul.check-list li:before {
   right: 0;
   text-align: center;
   color: #fff;
-  background-color: #ec005f;
+  background-color: #7e3f91;
   -webkit-transform: translate3d(100%, -100%, 0);
   transform: translate3d(100%, -100%, 0);
   -webkit-transition: background-color 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), -webkit-transform 0.1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
@@ -2504,8 +2507,8 @@ ul.check-list li:before {
   content: '';
   position: absolute;
   border: 14px solid transparent;
-  border-top-color: #ec005f;
-  border-right-color: #ec005f;
+  border-top-color: #7e3f91;
+  border-right-color: #7e3f91;
   -webkit-transition: border-color 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   transition: border-color 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
@@ -2647,7 +2650,7 @@ ul.check-list li:before {
   border-bottom-color: #d1d1d1;
 }
 .post-header .meta a:hover {
-  border-bottom-color: #ec005f !important;
+  border-bottom-color: #7e3f91 !important;
 }
 .post-header .post-date {
   font-weight: 400;
@@ -2843,12 +2846,12 @@ textarea {
 .pagination > li > a,
 .pagination > li > span {
   color: #ffffff !important;
-  background-color: #ec005f !important;
+  background-color: #7e3f91 !important;
 }
 .pagination > .active > a,
 .pagination > .active > span {
   color: #ffffff !important;
-  background-color: #ec005f !important;
+  background-color: #7e3f91 !important;
 }
 .pagination > .disabled > span,
 .pagination > .disabled > a {
@@ -3202,7 +3205,7 @@ textarea {
 .mejs-controls .mejs-time-rail .mejs-time-current {
   width: 0;
   height: 8px;
-  background: #ec005f;
+  background: #7e3f91;
   background-image: -webkit-linear-gradient(-45deg, rgba(0, 0, 0, 0.15) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.15) 50%, rgba(0, 0, 0, 0.15) 75%, transparent 75%, transparent);
   background-image: linear-gradient(-45deg, rgba(0, 0, 0, 0.15) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.15) 50%, rgba(0, 0, 0, 0.15) 75%, transparent 75%, transparent);
   background-size: 10px 10px;
@@ -3366,7 +3369,7 @@ textarea {
   top: 14px;
   width: 0;
   height: 8px;
-  background: #ec005f;
+  background: #7e3f91;
   background-image: -webkit-linear-gradient(-45deg, rgba(0, 0, 0, 0.15) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.15) 50%, rgba(0, 0, 0, 0.15) 75%, transparent 75%, transparent);
   background-image: linear-gradient(-45deg, rgba(0, 0, 0, 0.15) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.15) 50%, rgba(0, 0, 0, 0.15) 75%, transparent 75%, transparent);
   background-size: 10px 10px;
@@ -3731,7 +3734,7 @@ textarea {
     display: block !important;
   }
   .main-nav > ul > li > ul {
-    border-top: 2px solid #ec005f;
+    border-top: 2px solid #7e3f91;
   }
   .main-nav > ul > li > ul > li:first-child {
     border-top: 0;
