@@ -10,7 +10,7 @@
 
 @section('MetaKeywords')
 
-<meta name="keywords" content="site, atemporal, atemporale design, design e comunicação visiva, identidade visual, construção de logos, branding, websites, escritorios de comunicação, logotipo BH, aaa"/>@stop
+<meta name="keywords" content="site, atemporal, atemporale design, design e comunicação visiva, identidade visual, construção de logos, branding, websites, escritorios de comunicação, logotipo BH"/>@stop
 
 @section('cssPagina')
 

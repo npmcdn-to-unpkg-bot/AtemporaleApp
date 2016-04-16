@@ -8,11 +8,11 @@
           <div class="row">
             <div class="col-md-12">
               <div class="splash-text">
-                <h4 class="splash-intro"><a href="#">Ciao!</a></h4>
-                <h1 class="splash-headline">somos Atempor<span class="text-primary">ale</span>
+                <h4 class="splash-intro"><a href="#">Benvenuto ao nosso site!</a></h4>
+                <h1 class="splash-headline">Atemporale <span class="text-primary">Design</span>
                 </h1>
                 <div class="splash-description">
-                  <p>Um estúdio de Design apaixonado por projetar estratégias Criativas de comunicação e Design
+                  <p>ideias e ações inteligentes que criam novas oportunidades para o seu negócio
                   </p>
                 </div>
               </div>
@@ -25,11 +25,11 @@
           <div class="row">
             <div class="col-md-12">
               <div class="splash-text">
-                <h4 class="splash-intro"><a href="#">We're Creative</a></h4>
-                <h1 class="splash-headli">See our work, you'll fall in love
+                <h4 class="splash-intro"><a href="#">Conheça nossos projetos</a></h4>
+                <h1 class="splash-headline">Made in Italy: Digital Excellence
                 </h1>
-                <div class="splash-descripti">
-                  <p>Our work ranges from web, print to digital marketing
+                <div class="splash-description">
+                  <p>amamos pesquisar, descobrir e propor o nosso modo de fazer design 
                   </p>
                 </div>
               </div>

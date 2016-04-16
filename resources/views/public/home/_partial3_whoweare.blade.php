@@ -4,21 +4,21 @@
     <div class="section-row">
       <div class="container">
         <div class="row">
-          <col-lg-3>
-            <h1 class="section-title show-counter">Quem somos <small>The who, what and why our company exists</small>
+          <div class="col-lg-3">
+            <h1 class="section-title show-counter">Sobre nós<small>Atemporal é o que permanece no tempo independente de moda </small>
             </h1>
-          </col-lg-3>
+          </div>
           <div class="col-lg-8 col-lg-push-1">
             <div class="row">
               <div class="col-md-12">
-                <p class="lead">We are <a href="#">Hydrogen</a>, an always passionate, award winning digital agency who loves to design beautiful websites. See below for more information, who knows you might be interested in working with us.
+                <p class="lead">Atemporal significa &quot;condição de algo que permanece no tempo independente de tendências&quot;.  Somos, <a href="#">Atemporale Design</a>, um estúdio que nasce da imensa paixão e vontade de compartilhar a nossa visão de mudo no fazer Design, com muita dedicação, carinho e responsabilidade socioambiental. O que isto significa? Escolhemos o nome atemporalPara nós um good Design é aquele que faz  “sentido” e gera oportunidades (que vão além dos negócios).  Todavia um  “stunning Design” é aquele que, além disso, permanece no tempo sendo Atemporal.
                 </p>
               </div>
             </div>
             <div class="row">
               <div class="col-md-6">
                 <div data-animation-name="fadeInUp" class="icon-box">
-                  <div class="icon"><i class="gi gi-magic"></i></div>
+                  <div class="icon"><i class="fa fa-magic"> </i></div>
                   <div class="info">
                     <h4>We Transform Brands
                     </h4>
@@ -29,7 +29,7 @@
               </div>
               <div class="col-md-6">
                 <div data-animation-name="fadeInUp" class="icon-box">
-                  <div class="icon"><i class="gi gi-cup"></i></div>
+                  <div class="icon"><i class="fa fa-trophy"></i></div>
                   <div class="info">
                     <h4>We Build Great Products
                     </h4>
@@ -42,7 +42,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div data-animation-name="fadeInUp" class="icon-box">
-                  <div class="icon"><i class="gi gi-heart"></i></div>
+                  <div class="icon"><i class="fa fa-heart"></i></div>
                   <div class="info">
                     <h4>We.re Passionate
                     </h4>
@@ -54,7 +54,7 @@
             </div>
             <div class="col-md-6">
               <div data-animation-name="fadeInUp" class="icon-box">
-                <div class="icon"><i class="gi gi-life-preserver"></i></div>
+                <div class="icon"><i class="fa fa-certificate"></i></div>
                 <div class="info">
                   <h4>Awesome Support
                   </h4>
