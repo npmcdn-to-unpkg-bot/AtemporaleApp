@@ -25,11 +25,11 @@
           <div class="row">
             <div class="col-md-12">
               <div class="splash-text">
-                <h4 class="splash-intro"><a href="#">Conheça nossos projetos</a></h4>
-                <h1 class="splash-headline">Made in Italy: Digital Excellence
+                <h4 class="splash-intro"><a href="#">Criatividade + Estratégia</a></h4>
+                <h1 class="splash-headline">Made in Italy Digital Excellence
                 </h1>
                 <div class="splash-description">
-                  <p>amamos pesquisar, descobrir e propor o nosso modo de fazer design 
+                  <p>
                   </p>
                 </div>
               </div>
