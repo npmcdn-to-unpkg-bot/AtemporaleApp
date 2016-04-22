@@ -63,17 +63,6 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-6">
-              <div data-animation-name="fadeInUp" class="icon-box">
-                <div class="icon"><i class="fa fa-certificate"></i></div>
-                <div class="info">
-                  <h4>Garantia incomparável
-                  </h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
-                  </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
@@ -112,17 +101,6 @@
               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
               </p>
             </div>
-            <div class="spacer-60 bordered">
-              <social-list>
-                <ul>
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-github"></i></a></li>
-                </ul>
-              </social-list>
-            </div>
           </div>
         </div>
         <div class="col-md-3 col-sm-6">
@@ -143,81 +121,50 @@
               </p>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </p>
-              <div class="spacer-60 bordered">
-                <div class="social-list">
-                  <ul>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                  </ul>
-                </div>
-              </div>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6">
-            <div data-animation-name="fadeInRight" class="team">
-              <div class="team-photo">
-                <figure><img src="demo/team/3.jpg" alt=""/>
-                  <figcaption><a href="#"><i class="gi gi-resize-full"></i></a></figcaption>
-                </figure>
-              </div>
-              <div class="team-info">
-                <h4 class="team-name">Angelica Dunes
-                </h4>
-                <p class="team-role">Lead Designer
-                </p>
-              </div>
-              <div data-name="Angelica Dunes" data-role="Lead Designer" data-photo="demo/team/3.jpg" class="team-data">
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                </p>
-                <div class="spacer-60 bordered"></div>
-                <div class="social-list">
-                  <ul>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                  </ul>
-                </div>
-              </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <div data-animation-name="fadeInRight" class="team">
+            <div class="team-photo">
+              <figure><img src="demo/team/3.jpg" alt=""/>
+                <figcaption><a href="#"><i class="gi gi-resize-full"></i></a></figcaption>
+              </figure>
+            </div>
+            <div class="team-info">
+              <h4 class="team-name">Angelica Dunes
+              </h4>
+              <p class="team-role">Lead Designer
+              </p>
+            </div>
+            <div data-name="Angelica Dunes" data-role="Lead Designer" data-photo="demo/team/3.jpg" class="team-data">
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              </p>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6">
-            <div data-animation-name="fadeInRight" class="team">
-              <div class="team-photo">
-                <figure><img src="demo/team/4.jpg" alt=""/>
-                  <figcaption><a href="#"><i class="gi gi-resize-full"></i></a></figcaption>
-                </figure>
-              </div>
-              <div class="team-info">
-                <h4 class="team-name">Tom Weerd
-                </h4>
-                <p class="team-role">General Manager
-                </p>
-              </div>
-              <div data-name="Tom Weerd" data-role="General Manager" data-photo="demo/team/4.jpg" class="team-data">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                </p>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                </p>
-                <div class="spacer-60 bordered"></div>
-                <div class="social-list">
-                  <ul>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                  </ul>
-                </div>
-              </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <div data-animation-name="fadeInRight" class="team">
+            <div class="team-photo">
+              <figure><img src="demo/team/4.jpg" alt=""/>
+                <figcaption><a href="#"><i class="gi gi-resize-full"></i></a></figcaption>
+              </figure>
+            </div>
+            <div class="team-info">
+              <h4 class="team-name">Tom Weerd
+              </h4>
+              <p class="team-role">General Manager
+              </p>
+            </div>
+            <div data-name="Tom Weerd" data-role="General Manager" data-photo="demo/team/4.jpg" class="team-data">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </p>
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              </p>
             </div>
           </div>
         </div>
