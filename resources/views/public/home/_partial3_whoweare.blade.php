@@ -20,9 +20,9 @@
                 <div data-animation-name="fadeInUp" class="icon-box">
                   <div class="icon"><i class="fa fa-magic"> </i></div>
                   <div class="info">
-                    <h4>We Transform Brands
+                    <h4>Responsabilidade socio-ambiental
                     </h4>
-                    <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
+                    <p>Responsabilidade é a palavra de ordem aqui. Não abrimos mão do que da nosso dever ético e sócio-ambiental. Assim nos nossos projeto inserimos uma "pegada" mais eco. Seja nas soluções, seja no despertar a consciencia dos nossos clientes e parceiros para isso. Adquirindo os nossos serviços você adquire o comprometimento de uma equipe que se preocupa com o nosso planeta.
                     </p>
                   </div>
                 </div>
@@ -31,7 +31,7 @@
                 <div data-animation-name="fadeInUp" class="icon-box">
                   <div class="icon"><i class="fa fa-trophy"></i></div>
                   <div class="info">
-                    <h4>We Build Great Products
+                    <h4>Design Italiano
                     </h4>
                     <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
                     </p>
@@ -44,22 +44,22 @@
                 <div data-animation-name="fadeInUp" class="icon-box">
                   <div class="icon"><i class="fa fa-heart"></i></div>
                   <div class="info">
-                    <h4>We.re Passionate
+                    <h4>Método
                     </h4>
                     <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
                     </p>
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="col-md-6">
-              <div data-animation-name="fadeInUp" class="icon-box">
-                <div class="icon"><i class="fa fa-certificate"></i></div>
-                <div class="info">
-                  <h4>Awesome Support
-                  </h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
-                  </p>
+              <div class="col-md-6">
+                <div data-animation-name="fadeInUp" class="icon-box">
+                  <div class="icon"><i class="fa fa-certificate"></i></div>
+                  <div class="info">
+                    <h4>Garantia incomparável
+                    </h4>
+                    <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
