@@ -5,13 +5,13 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <h1 class="section-title show-counter">Sobre nós<small>Atemporal é o que permanece no tempo independente de moda </small>
+            <h1 class="section-title show-counter">Sobre nós<small>Atemporal(e) significa: &quot;o que permanece no tempo independente de tendências.&quot; </small>
             </h1>
           </div>
           <div class="col-lg-8 col-lg-push-1">
             <div class="row">
               <div class="col-md-12">
-                <p class="lead">Atemporal significa &quot;condição de algo que permanece no tempo independente de tendências&quot;.  Somos, <a href="#">Atemporale Design</a>, um estúdio que nasce da imensa paixão e vontade de compartilhar a nossa visão de mudo no fazer Design, com muita dedicação, carinho e responsabilidade socioambiental. O que isto significa? Escolhemos o nome atemporalPara nós um good Design é aquele que faz  “sentido” e gera oportunidades (que vão além dos negócios).  Todavia um  “stunning Design” é aquele que, além disso, permanece no tempo sendo Atemporal.
+                <p class="lead">Digamos que você esteja procurando um escritório de design e comunicação (que bom te ver por aqui!). Ae você se pergunta: &quot;- Por que escolher Atemporale Design?&quot; Bom, somos um estúdio que nasce da imensa vontade de transformar idéias em ações. Acreditamos que um "good design" é aquele que faz sentido e gera oportunidades. Todavia, além disso procuramos fazer um "design affascinante" que possa atuar positivamente em uma ampla rede social e permanecer no tempo, sendo atemporal(e).
                 </p>
               </div>
             </div>
@@ -56,7 +56,7 @@
               <div data-animation-name="fadeInUp" class="icon-box">
                 <div class="icon"><i class="fa fa-certificate"></i></div>
                 <div class="info">
-                  <h4>Awesome Support
+                  <h4>Garantia incomparável
                   </h4>
                   <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
                   </p>

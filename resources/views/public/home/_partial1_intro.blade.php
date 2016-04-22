@@ -12,7 +12,7 @@
                 <h1 class="splash-headline">Atemporale <span class="text-primary">Design</span>
                 </h1>
                 <div class="splash-description">
-                  <p>ideias e ações inteligentes que criam novas oportunidades para o seu negócio
+                  <p>Idéias e ações inteligentes que criam novas oportunidades para o seu negócio.
                   </p>
                 </div>
               </div>
@@ -26,10 +26,10 @@
             <div class="col-md-12">
               <div class="splash-text">
                 <h4 class="splash-intro"><a href="#">Criatividade + Estratégia</a></h4>
-                <h1 class="splash-headline">Made in Italy Digital Excellence
+                <h1 class="splash-headline">Made in Italy<br /><span class="text-primary"> Digital Excellence</span>
                 </h1>
                 <div class="splash-description">
-                  <p>
+                  <p>Somos certificados pelo google. Mais uma garantia de qualidade para você!
                   </p>
                 </div>
               </div>
@@ -42,11 +42,11 @@
           <div class="row">
             <div class="col-md-12">
               <div class="splash-text">
-                <h4 class="splash-intro"><a href="#">Let's Talk Today</a></h4>
-                <h1 class="splash-headline">Have a project? Let's talk
+                <h4 class="splash-intro"><a href="#">Quem é você?</a></h4>
+                <h1 class="splash-headline">Vamos conversar!
                 </h1>
                 <div class="splash-description">
-                  <p>Every client working with us are always satisfied, we can prove it!
+                  <p>Quer aumentar o número de clientes da sua empresa, mas não sabe como? Clique aqui!
                   </p>
                 </div>
               </div>
