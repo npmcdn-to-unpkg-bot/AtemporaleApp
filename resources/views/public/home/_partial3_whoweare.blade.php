@@ -11,7 +11,7 @@
           <div class="col-lg-8 col-lg-push-1">
             <div class="row">
               <div class="col-md-12">
-                <p class="lead">Digamos que você esteja procurando um escritório de design e comunicação (que bom te ver por aqui!). Ae você se pergunta: &quot;- Por que escolher Atemporale Design?&quot; Bom, somos um estúdio que nasce da imensa vontade de transformar idéias em ações. Acreditamos que um "good design" é aquele que faz sentido e gera oportunidades. Todavia, além disso procuramos fazer um "design affascinante" que possa atuar positivamente em uma ampla rede social e permanecer no tempo, sendo atemporal(e).
+                <p class="lead">Digamos que você esteja procurando um escritório de design e comunicação (que bom te ver por aqui!). Ae você se pergunta: &quot;- Por que escolher Atemporale Design?&quot; Bom, somos um estúdio que nasce da imensa vontade de transformar idéias em ações. Acreditamos que um "good design" é aquele que faz sentido e gera oportunidades. Mas além disso procuramos fazer um "design affascinante" que possa influenciar positivamente uma ampla rede social e permanecer no tempo, sendo atemporal(e). Conheça quatro principais razões para nos escolher. 
                 </p>
               </div>
             </div>
@@ -20,9 +20,9 @@
                 <div data-animation-name="fadeInUp" class="icon-box">
                   <div class="icon"><i class="fa fa-magic"> </i></div>
                   <div class="info">
-                    <h4>Responsabilidade socio-ambiental
+                    <h4>Somos responsáveis!
                     </h4>
-                    <p>Responsabilidade é a palavra de ordem aqui. Não abrimos mão do que da nosso dever ético e sócio-ambiental. Assim nos nossos projeto inserimos uma "pegada" mais eco. Seja nas soluções, seja no despertar a consciencia dos nossos clientes e parceiros para isso. Adquirindo os nossos serviços você adquire o comprometimento de uma equipe que se preocupa com o nosso planeta.
+                    <p>Responsabilidade é uma das palavras de ordem aqui. Não abrimos mão do que da nosso dever ético e sócio-ambiental. Assim nos nossos projeto inserimos uma "pegada" mais eco. Seja nas soluções, seja no despertar a consciencia dos nossos clientes e parceiros para isso. Adquirindo os nossos serviços você adquire o comprometimento de uma equipe que se preocupa com o nosso planeta.
                     </p>
                   </div>
                 </div>
@@ -31,9 +31,9 @@
                 <div data-animation-name="fadeInUp" class="icon-box">
                   <div class="icon"><i class="fa fa-trophy"></i></div>
                   <div class="info">
-                    <h4>Design Italiano
+                    <h4>Somos também Made in Italy!
                     </h4>
-                    <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
+                    <p>A idéia de criar Atemporale surgiu na Itália na cidade de Turim. O ambiente de idéias compatíveis e a vontade de deixar a nossa marca no mundo com nossa identidade nos projetos toma forma no Brasil, na capital Belo Horizonte. Trazemos assim, no nosso DNA a tradição, originalidade e &quot;saber fazer&quot; do design italiano com a ousadia, colorido e expontaneidade brasileira.
                     </p>
                   </div>
                 </div>
@@ -44,9 +44,9 @@
                 <div data-animation-name="fadeInUp" class="icon-box">
                   <div class="icon"><i class="fa fa-heart"></i></div>
                   <div class="info">
-                    <h4>Método
+                    <h4>Somos sistêmicos!
                     </h4>
-                    <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
+                    <p>Entendemos que o todo é maior que a soma de suas partes e o que nos impulsona a estarmos sempre em processo de atualização. Nossa receita é simples: unir as metodologias tradicionais do design com o pensamento sistêmico e o design thinking. Trilhando um caminho próprio que visa encontrar soluções únicas e completas para os nossos clientes. 
                     </p>
                   </div>
                 </div>
@@ -55,22 +55,11 @@
                 <div data-animation-name="fadeInUp" class="icon-box">
                   <div class="icon"><i class="fa fa-certificate"></i></div>
                   <div class="info">
-                    <h4>Garantia incomparável
+                    <h4>Somos confiáveis!
                     </h4>
-                    <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
+                    <p>Nosso trabalho visa 100% de satisfação dos nosso clientes. Pensando nisso, oferecemos uma garantia exclusiva de alta performance (além das garantias exclusivas personalizadas para cada cliente e pacote) que garante que em até 120 dias do términe de nossos serviços, você vai tranquilamente aumentar em 30% o número de clientes da sua empresa e ainda reforçar as relações com aqueles já existentes. Caso isto não aconteça refazemos, aperfeiçoamos gratuitamente, até conseguir e se ainda assim, por alguma razão não der certo devolvemos o seu dinheiro, sem choro.
                     </p>
                   </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div data-animation-name="fadeInUp" class="icon-box">
-                <div class="icon"><i class="fa fa-certificate"></i></div>
-                <div class="info">
-                  <h4>Garantia incomparável
-                  </h4>
-                  <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque, consectetur adipisicing elit.
-                  </p>
                 </div>
               </div>
             </div>
