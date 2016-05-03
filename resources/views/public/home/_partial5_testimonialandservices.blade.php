@@ -38,40 +38,40 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <h1 class="section-title show-counter">Our Services<small>From web to print designs, we love what we do and we promise to give you the best!</small>
+            <h1 class="section-title show-counter">Nossos serviços<small>Imagem irresistível (e atemporal-e!) + estratégia precisa = resultados que geram valor.</small>
             </h1>
           </div>
         </div>
         <div class="row">
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="gi gi-send"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="gi gi-send shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-paper-plane-o"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-paper-plane-o shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Web Design
+                <h4 class="service-name">Tornar a sua <span class="text-primary">Marca Irresistível</span>
                 </h4>
-                <p class="service-description">Developing websites has always been our passion and main goal since we started the company. Putent laoreet et ius utroque dissentias ut.
+                <p class="service-description">Escolha do nome (naming) | Slogan | Logo | Papelaria (cartão de visitas, papel timbrado, etc.) | Editoriais (catálogos, revistas, etc.) |  embalagens.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="gi gi-fire"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="gi gi-fire shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-desktop"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-desktop shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Branding
+                <h4 class="service-name">Fazer sua <span class="text-primary">ID Virtual Insuperável</span>
                 </h4>
-                <p class="service-description">Branding, packaging, leave all that to us, we promise to make your brand stand out in the crowd. Putent laoreet et ius utroque dissentias ut.
+                <p class="service-description">Websites responsivos | E-commerce (lojas virtuais) | Portfólio | Blogs | Aplicativos | Redes sociais.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="gi gi-camera"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="gi gi-camera shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-magic"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-magic shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Photography
+                <h4 class="service-name">Conquistar seus <span class="text-primary">Potenciais Clientes</span>
                 </h4>
-                <p class="service-description">Were not only good at designing digital goodies, weve also lots of experience in print design. Putent laoreet et ius utroque dissentias ut.
+                <p class="service-description"> Idealizaçao das campanhas online e offline | Online -> SEO e SEM | Landing pages | EmailMarketing | Facebook Ads | Google adwords | Redação para web | Videos de vendas | Ebooks | Offline -> Cartazes,  
                 </p>
               </div>
             </div>
@@ -81,33 +81,33 @@
         <div class="row">
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="gi gi-server"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="gi gi-server shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-magic"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-magic shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Server Scripting
+                <h4 class="service-name">Para uma Economia Azul
                 </h4>
-                <p class="service-description">Marketing, SEO and website analytics are one of our hidden expertise. Putent laoreet et ius utroque dissentias ut.
+                <p class="service-description">Ecodesign (desenvolvimento de produtos ecosustentáveis) | Design sistêmico (projeta a utilização inteligente dos recursos naturais, em respeitos as pessoas e ao território) | Design de Serviços (Soluções para problemas urbanos)
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service">
-              <service-icon><i data-animation-name="bounceIn" class="gi gi-dashboard"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="gi gi-dashboard shadow-icon"></i></service-icon>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-magic"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-magic shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Speed Analysis
+                <h4 class="service-name">Trazer experiências únicas
                 </h4>
-                <p class="service-description">Marketing, SEO and website analytics are one of our hidden expertise. Putent laoreet et ius utroque dissentias ut.
+                <p class="service-description">Ambientação do Ponto de Venda | 
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="gi gi-gamepad"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="gi gi-gamepad shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-share-square"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-share-square shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Game Design
+                <h4 class="service-name">Para uma Continua Atuação 
                 </h4>
-                <p class="service-description">Marketing, SEO and website analytics are one of our hidden expertise. Putent laoreet et ius utroque dissentias ut.
+                <p class="service-description">Gestão da marca e do projeto | Gerenciamento da reputação online | Acompanhamento  das redes sociais | Consultorias em Ecodesign | Assessorias | 
                 </p>
               </div>
             </div>

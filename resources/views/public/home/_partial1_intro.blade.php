@@ -12,7 +12,7 @@
                 <h1 class="splash-headline">Atemporale <span class="text-primary">Design</span>
                 </h1>
                 <div class="splash-description">
-                  <p>Idéias e ações inteligentes que criam novas oportunidades para o seu negócio.
+                  <p>Idéias e ações inteligentes que criam novas oportunidades para você e o seu negócio.
                   </p>
                 </div>
               </div>
