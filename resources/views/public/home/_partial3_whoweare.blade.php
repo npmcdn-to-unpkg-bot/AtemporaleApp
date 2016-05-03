@@ -158,7 +158,7 @@
               <p class="team-role">General Manager
               </p>
             </div>
-            <div data-name="Tom Weerd" data-role="General Manager" data-photo="demo/team/4.jpg" class="team-data">
+            <div data-name="Tom123 Weerd" data-role="General Manager" data-photo="demo/team/4.jpg" class="team-data">
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               </p>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
