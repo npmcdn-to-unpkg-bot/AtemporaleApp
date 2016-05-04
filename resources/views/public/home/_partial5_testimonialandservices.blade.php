@@ -49,7 +49,7 @@
               <div class="service-info">
                 <h4 class="service-name">Tornar a sua <span class="text-primary">Marca Irresistível</span>
                 </h4>
-                <p class="service-description">Escolha do nome (naming) | Slogan | Logo | Papelaria (cartão de visitas, papel timbrado, etc.) | Editoriais (catálogos, revistas, etc.) |  embalagens.
+                <p class="service-description">Escolha do nome (naming) | Slogan | Logo | Papelaria (cartão de visitas, papel timbrado, etc.) | Editoriais (catálogos, revistas, etc.) |  Embalagens.
                 </p>
               </div>
             </div>
@@ -71,7 +71,7 @@
               <div class="service-info">
                 <h4 class="service-name">Conquistar seus <span class="text-primary">Potenciais Clientes</span>
                 </h4>
-                <p class="service-description"> Idealizaçao das campanhas online e offline | Online -> SEO e SEM | Landing pages | EmailMarketing | Facebook Ads | Google adwords | Redação para web | Videos de vendas | Ebooks | Offline -> Cartazes,  
+                <p class="service-description"> Campanhas Online e offline -> SEO e SEM | Landing pages | EmailMarketing | Facebook Ads | Google adwords | Redação para web | Videos de vendas | Ebooks | Cartazes e etc.
                 </p>
               </div>
             </div>
@@ -81,33 +81,33 @@
         <div class="row">
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-magic"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-magic shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-globe"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-globe shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Para uma Economia Azul
+                <h4 class="service-name">Para uma <span class="text-primary">Economia Azul</span>
                 </h4>
-                <p class="service-description">Ecodesign (desenvolvimento de produtos ecosustentáveis) | Design sistêmico (projeta a utilização inteligente dos recursos naturais, em respeitos as pessoas e ao território) | Design de Serviços (Soluções para problemas urbanos)
+                <p class="service-description">Ecodesign (desenvolvimento de produtos ecosustentáveis) | Design sistêmico (gestão inteligente dos recursos naturais) | Design de Serviços (Soluções para problemas urbanos)
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-magic"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-magic shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-university"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-university shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Trazer experiências únicas
+                <h4 class="service-name">Trazer <span class="text-primary">Experiências que transformam </span>
                 </h4>
-                <p class="service-description">Ambientação do Ponto de Venda | 
+                <p class="service-description">Projetos sociais | Museu Virtual | Pesquisas e desenvolvimento | Conscientização quotidiana.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="service">
-              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-share-square"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-share-square shadow-icon"></i></div>
+              <div class="service-icon"><i data-animation-name="bounceIn" class="fa fa-users"></i><i data-animation-name="fadeInLeft" data-animation-delay="0" class="fa fa-users shadow-icon"></i></div>
               <div class="service-info">
-                <h4 class="service-name">Para uma Continua Atuação 
+                <h4 class="service-name">Acompanhamento e Consultorias 
                 </h4>
-                <p class="service-description">Gestão da marca e do projeto | Gerenciamento da reputação online | Acompanhamento  das redes sociais | Consultorias em Ecodesign | Assessorias | 
+                <p class="service-description">Gestão da marca e do projeto | Gerenciamento da reputação online | Acompanhamento  das redes sociais | Consultorias em Ecodesign
                 </p>
               </div>
             </div>
