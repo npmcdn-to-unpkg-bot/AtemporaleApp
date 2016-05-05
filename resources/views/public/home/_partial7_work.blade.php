@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <h1 class="section-title show-counter">Our Work<small>Check out our recent projects and we’re sure you’ll immediately fall in love.</small>
+            <h1 class="section-title show-counter">Nosso Portfólio<small>Conheça nossos projetos recentes e se encante!</small>
             </h1>
           </div>
           <div class="col-lg-9">

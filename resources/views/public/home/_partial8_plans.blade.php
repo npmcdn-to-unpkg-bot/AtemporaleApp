@@ -5,26 +5,26 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <h1 class="section-title show-counter">Our Plans <small>Check our plans. We’re very reasonable when it comes about pricing.</small>
+            <h1 class="section-title show-counter">Nossos Planos<small>Feitos para descomplicar e ajudar a sua empresa a ir mais longe. </small>
             </h1>
           </div>
         </div>
         <div class="row">
           <div class="col-md-4">
             <div data-animation-name="flipInY" class="pricing-table">
-              <h2 class="price">$0<small>/mo.</small>
+              <h2 class="price"><small>Imagem irresistibile</small>
               </h2>
-              <h5 class="name">Free
+              <h5 class="name">Perfeito para quem está abrindo uma empresa!.
               </h5>
               <div class="features">
                 <ul>
-                  <li><span>250</span> templates to choose from
+                  <li><span>Logo</span> que nunca vão sair de moda!
                   </li>
-                  <li><span>10GB</span> disk space
+                  <li><span>Papelaria</span> Cartões de visita, papel timbrado, pastas, etc. 
                   </li>
-                  <li><span>5TB</span> bandwidth
+                  <li><span>Plano de Marketing</span> mini
                   </li>
-                  <li><span>4GB</span> memory
+                  <li><span>4 Bônus</span> personalizados
                   </li>
                   <li>Prioritized Support
                   </li>
