@@ -29,9 +29,9 @@ elixir(function(mix) {
 
 
 
-
+    /*
     mix.browserSync({
         proxy: 'http://atemporale_completo.dev/'
-    });
+    });*/
 });
 
