@@ -5,55 +5,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-            <h1 class="section-title show-counter">Our Work<small>Check out our recent projects and we’re sure you’ll immediately fall in love.</small>
+            <h1 class="section-title show-counter">Nosso Port fólio<small>Conheça nossos projetos recentes e se encante!</small>
             </h1>
           </div>
-          <div class="col-lg-9">
-            <div class="macbook-slider">
-              <div class="wrap">
-                <div class="royalSlider rsHydrogen">
-                  <div class="slider-media project-slide">
-                    <figure><img src="demo/projects/slider/thumbs/1.jpg" alt="" class="rsImg"/>
-                      <figcaption><span>The Freestyler</span>
-                      </figcaption>
-                    </figure>
-                    <div class="overlay transparent">
-                      <ul>
-                        <li class="mfp-zoom"><a href="demo/projects/slider/1.jpg"><i class="gi gi-resize-full"></i></a></li>
-                        <li class="mfp-details"><a href="#"><i class="gi gi-search"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="slider-media project-slide">
-                    <figure><img src="demo/projects/slider/thumbs/vid.jpg" alt="" data-rsVideo="http://vimeo.com/11475955" class="rsImg"/>
-                      <figcaption class="mfp-details"><a href="#">Beauty Reel</a></figcaption>
-                    </figure>
-                  </div>
-                  <div class="slider-media project-slide">
-                    <figure><img src="demo/projects/slider/thumbs/2.jpg" alt="" class="rsImg"/>
-                      <figcaption><span>Colorful Lady</span>
-                      </figcaption>
-                    </figure>
-                    <div class="overlay transparent">
-                      <ul>
-                        <li class="mfp-zoom"><a href="demo/projects/slider/2.jpg"><i class="gi gi-resize-full"></i></a></li>
-                        <li class="mfp-details"><a href="#"><i class="gi gi-search"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="slider-media project-slide">
-                    <figure><img src="demo/projects/slider/thumbs/3.jpg" alt="" class="rsImg"/>
-                      <figcaption><span>The Hawk</span>
-                      </figcaption>
-                    </figure>
-                    <div class="overlay transparent">
-                      <ul>
-                        <li class="mfp-zoom"><a href="demo/projects/slider/3.jpg"><i class="gi gi-resize-full"></i></a></li>
-                        <li class="mfp-details"><a href="#"><i class="gi gi-search"></i></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
+          <div class="col-lg-8 col-lg-push-1">
+            <div class="row">
+              <div class="col-md-12">
+                <p class="lead">Digamos que você esteja procurando um escritório de design e comunicação (que bom te ver por aqui!). Ae você se pergunta: &quot;- Por que escolher Atemporale Design?&quot; Bom, somos um estúdio que nasce da imensa vontade de transformar idéias em ações. 
+                </p>
               </div>
             </div>
           </div>
@@ -62,29 +21,23 @@
     </div>
     <div class="section-row no-padding-top">
       <div class="container">
-        <div class="row">
-          <div class="col-md-8 col-md-push-4">
-            <h2 class="section-separator-title"><span data-shadow-text="Want to See More?">Want to See More?</span>
-            </h2>
-          </div>
-        </div>
         <div data-animation-chain-duration="1200" class="row">
           <div class="col-md-12">
             <div class="projects">
-              <div class="filter"><span class="active-label visible-xs" data-toggle="dropdown">All</span>
+              <div class="filter"><span class="active-label visible-xs" data-toggle="dropdown">Todos</span>
                 <ul>
-                  <li class="active"><a href="#" data-filter="*">All</a></li>
-                  <li><a href="#" data-filter=".illustration">Illustration</a></li>
+                  <li class="active"><a href="#" data-filter="*">Todos</a></li>
+                  <li><a href="#" data-filter=".illustration">Marcas</a></li>
                   <li><a href="#" data-filter=".web-design">Web Design</a></li>
-                  <li><a href="#" data-filter=".branding">Branding</a></li>
-                  <li><a href="#" data-filter=".photography">Photography</a></li>
+                  <li><a href="#" data-filter=".branding">Ecodesign e projetos sociais</a></li>
+                  <li><a href="#" data-filter=".photography">Outros</a></li>
                 </ul>
               </div>
               <div class="items">
                 <div class="grid-sizer"></div>
                 <div class="gutter-sizer"></div>
                 <div data-animation-name="fadeInDown" class="project branding web-design">
-                  <div class="project-image"><img src="demo/projects/thumbs/1.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_identidade_visual1.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/1.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -100,7 +53,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project photography web-design">
-                  <div class="project-image"><img src="demo/projects/thumbs/2.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_identidade_visual1.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/2.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -116,7 +69,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project illustration web-design">
-                  <div class="project-image"><img src="demo/projects/thumbs/3.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/atemporale_design_portfolio_identidade_visual.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/3.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -132,7 +85,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project photography">
-                  <div class="project-image"><img src="demo/projects/thumbs/4.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/atemporale_design_portfolio_identidade_visual.jpg')}}" alt=""/>
                     <div class="overlay">
                       <u class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/4.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -148,7 +101,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project branding photography">
-                  <div class="project-image"><img src="demo/projects/thumbs/5.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/atemporale_design_portfolio_identidade_visual.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/5.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -164,7 +117,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project web-design">
-                  <div class="project-image"><img src="demo/projects/thumbs/6.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/atemporale_design_portfolio_identidade_visual.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/6.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -180,7 +133,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project photography">
-                  <div class="project-image"><img src="demo/projects/thumbs/7.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/atemporale_design_portfolio_identidade_visual.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/7.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -196,7 +149,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project illustration web-design">
-                  <div class="project-image"><img src="demo/projects/thumbs/8.jpg" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/atemporale_design_portfolio_identidade_visual.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/8.jpg"><i class="gi gi-resize-full"></i></a></li>
