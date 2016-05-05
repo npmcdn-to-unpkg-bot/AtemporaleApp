@@ -27,11 +27,15 @@ elixir(function(mix) {
     mix.copy('resources/assets/bower/font-awesome/fonts', 'public/fonts');
     mix.copy('resources/assets/bower/bootstrap/fonts', 'public/fonts');
 
+    //javascript
+    mix.copy('resources/assets/bower/font-awesome/fonts', 'public/fonts');
+    mix.copy('resources/assets/bower/bootstrap/fonts', 'public/fonts');
 
 
-    /*
+
+
     mix.browserSync({
         proxy: 'http://atemporale_completo.dev/'
-    });*/
+    });
 });
 
