@@ -46,7 +46,7 @@
                     </div>
                   </div>
                   <div class="project-info">
-                    <h4 class="project-name">Tattoo Body Art
+                    <h4 class="project-name">Inovar Móveis
                     </h4>
                     <div class="project-categories">Branding, Web Design
                     </div>

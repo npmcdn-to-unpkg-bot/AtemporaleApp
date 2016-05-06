@@ -9,8 +9,8 @@
             <ul class="nav">
               <li><a href="#">Home</a></li>
               <li><a href="#about">Sobre nós</a></li>
-              <li><a href="#services">O que fazemos</a></li>
-              <li><a href="#work">O que já fizemos</a></li>
+              <li><a href="#services">O que fazemos?</a></li>
+              <li><a href="#work">Nossos projetos</a></li>
               <li><a href="#contact">Contato</a></li>
               <li><a href="#">Em destaque<span class="sub-toggle"></span></a>
                 <ul>
