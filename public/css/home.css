@@ -1,7 +1,7 @@
 @import "../../bower/bootstrap/dist/css/bootstrap.min.css";
-@import "../../bower/plugins/royalslider/royalslider.min.css";
-@import "../../bower/plugins/owlcarousel/owl.carousel.min.css";
-@import "../../bower/plugins/mfp/jquery.mfp.css";
+@import "../../bower/royalslider/royalslider.min.css";
+@import "../../bower/owlcarousel/owl-carousel/owl.carousel.css";
+@import "../../bower/mfp/jquery.mfp.css";
 @font-face {
   font-family: 'Glyphicons Halflings';
   src: url('../fonts/glyphicons-halflings-regular.eot');
