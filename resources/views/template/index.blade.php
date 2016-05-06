@@ -51,6 +51,8 @@
   <body itemtype="" itemscope>
     <!-- dinamic content-->@yield('content', '')
 
+    <!--Librerie js-->
+    <!--Librerie hyidrogen-->
     <!--Script interni per pagina-->@yield('jsPagina', '')
 
   </body>
