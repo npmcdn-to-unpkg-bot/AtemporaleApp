@@ -2,7 +2,7 @@ var elixir = require('laravel-elixir');
              require('laravel-elixir-jade');
 
 
-elixir.config.sourcemaps = false;
+elixir.config.sourcemaps = true;
 
 elixir(function(mix) {
     mix.jade({
