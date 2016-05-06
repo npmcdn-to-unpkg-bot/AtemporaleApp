@@ -37,7 +37,7 @@
                 <div class="grid-sizer"></div>
                 <div class="gutter-sizer"></div>
                 <div data-animation-name="fadeInDown" class="project branding web-design">
-                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_identidade_visual1.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min1.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/1.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -53,7 +53,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project photography web-design">
-                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_identidade_visual1.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min2.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/2.jpg"><i class="gi gi-resize-full"></i></a></li>
@@ -69,7 +69,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project illustration web-design">
-                  <div class="project-image"><img src="{{asset('img/atemporale_design_portfolio_identidade_visual.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min3.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/3.jpg"><i class="gi gi-resize-full"></i></a></li>
