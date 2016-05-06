@@ -51,19 +51,6 @@
   <body itemtype="" itemscope>
     <!-- dinamic content-->@yield('content', '')
 
-    <script type="text/javascript" src="{{asset('bower/jquery/dist/jquery.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/royalslider/jquery.royalslider.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/mfp/jquery.mfp-0.9.9.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/mediaelement/mediaelement-and-player.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/gmap/gmap3.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/owlcarousel/owl.carousel.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/isotope/jquery.isotope.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/form/jquery.form.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('bower/plugins/form/jquery.validate.min.js')}}"></script>
-    <!--Librerie hyidrogen-->
-    <script type="text/javascript" src="{{asset('js/hydrogen.setup.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('js/hydrogen.scripts.min.js')}}"></script>
-    <script type="text/javascript" src="{{asset('js/hydrogen.plugins.js')}}"></script>
     <!--Script interni per pagina-->@yield('jsPagina', '')
 
   </body>
