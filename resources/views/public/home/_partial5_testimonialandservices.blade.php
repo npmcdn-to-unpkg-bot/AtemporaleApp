@@ -38,7 +38,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <h1 class="section-title show-counter">O que fazemos<small>Serviços com alta performance, que geram oportunidades de sucesso para você.</small>
+            <h1 class="section-title show-counter">O que fazemos<small>Serviços com alta performance que geram ocasiões de sucesso para você.</small>
             </h1>
           </div>
         </div>
@@ -60,7 +60,7 @@
               <div class="service-info">
                 <h4 class="service-name"><span class="text-primary">Presença Virtual Insuperável</span><small></br>Insuperável</small>
                 </h4>
-                <p class="service-description">Gerar valor, conquistar clientes atualmente não pode ser feitos sem que se tenha uma identidade virtual forte e bem estratégica. A alta Assim criamos a sua presença online através de Websites responsivos | E-commerce (lojas virtuais) | Portfólio | Blogs | Aplicativos | Redes sociais | Cartas e videos de vendas e etc.
+                <p class="service-description">Planejamento da presença online | Websites responsivos | E-commerce (lojas virtuais) | Portfólio | Blogs | Aplicativos | Redes sociais | Cartas e videos de vendas e etc.
                 </p>
               </div>
             </div>
