@@ -40,7 +40,7 @@
                   <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min1.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
-                        <li class="mfp-zoom"><a href="demo/projects/1.jpg"><i class="fa fa-arrows-alt"></i></a></li>
+                        <li class="mfp-zoom"><a href="img/portfolio/min/atemporale_design_portfolio_min1.jpg"><i class="fa fa-arrows-alt"></i></a></li>
                         <li class="mfp-details"><a href="project-body-art.html"><i class="fa fa-search"></i></a></li>
                       </ul>
                     </div>
@@ -56,7 +56,7 @@
                   <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min2.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
-                        <li class="mfp-zoom"><a href="demo/projects/2.jpg"><i class="fa fa-arrows-alt"></i></a></li>
+                        <li class="mfp-zoom"><a href="img/portfolio/min/atemporale_design_portfolio_min2.jpg"><i class="fa fa-arrows-alt"></i></a></li>
                         <li class="mfp-details"><a href="project-manhattan.html"><i class="fa fa-search"></i></a></li>
                       </ul>
                     </div>
@@ -69,7 +69,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project illustration web-design">
-                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min3.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min3.gif')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/3.jpg"><i class="fa fa-arrows-alt"></i></a></li>
@@ -85,7 +85,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project photography">
-                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min2.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min4.jpg')}}" alt=""/>
                     <div class="overlay">
                       <u class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/4.jpg"><i class="fa fa-arrows-alt"></i></a></li>
@@ -117,7 +117,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project web-design">
-                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min4.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min6.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/6.jpg"><i class="fa fa-arrows-alt"></i></a></li>
@@ -133,7 +133,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project photography">
-                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min2.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min7.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/7.jpg"><i class="fa fa-arrows-alt"></i></a></li>
@@ -149,7 +149,7 @@
                   </div>
                 </div>
                 <div data-animation-name="fadeInDown" class="project illustration web-design">
-                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min2.jpg')}}" alt=""/>
+                  <div class="project-image"><img src="{{asset('img/portfolio/min/atemporale_design_portfolio_min8.jpg')}}" alt=""/>
                     <div class="overlay">
                       <ul class="actions">
                         <li class="mfp-zoom"><a href="demo/projects/8.jpg"><i class="fa fa-arrows-alt"></i></a></li>
