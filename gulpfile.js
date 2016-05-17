@@ -26,8 +26,9 @@ elixir(function(mix) {
     ], "resources/assets/js/components/hydrogen.min.js");
 
 
-    mix.less(["resources/assets/less/pages/home.less"], "public/css/home.css");//delete less
-
+    mix.less(["resources/assets/less/pages/home.less"], "public/css/home.css");
+    mix.less(["resources/assets/less/pages/prog.less"], "public/css/prog.css");
+  //delete less
 
     mix.scripts([
         "./resources/assets/bower/html5shiv/dist/html5shiv.min.js",
@@ -44,6 +45,20 @@ elixir(function(mix) {
         "./resources/assets/bower/jquery-validation/dist/jquery.validate.min.js",
         "components/hydrogen.min.js"
     ], "public/js/home.min.js");
+
+    mix.scripts([
+        "./resources/assets/bower/html5shiv/dist/html5shiv.min.js",
+        "components/layout.js",
+        "pages/prog.js",
+        "./resources/assets/bower/jquery/dist/jquery.min.js",
+        "./resources/assets/bower/royalslider/jquery.royalslider.min.js",
+        "./resources/assets/bower/mfp/jquery.mfp-0.9.9.min.js",
+        "./resources/assets/bower/mediaelement/build/mediaelement-and-player.min.js",
+        "./resources/assets/bower/gmap3/dist/gmap3.min.js",
+        "./resources/assets/bower/owlcarousel/owl-carousel/owl.carousel.min.js",
+        "./resources/assets/bower/isotope/dist/isotope.pkgd.min.js",
+        "components/hydrogen.min.js"
+    ], "public/js/prog.min.js");
 
 
     /*

@@ -1,0 +1,25 @@
+include ./../../template/mixin.jade
+
++extends('template/index')
+
++section('Title')
+    title Testo da inserire
+
++section('MetaDescription')
+    meta(name="description", content="aaa")/
+
++section('MetaKeywords')
+    meta(name="keywords", content="aaa, aaa, aaa")/
+
++section('cssPagina')
+    link(rel="stylesheet", href!="{{ asset('css/prog.css') }}", type="text/css")/
+
++section('content')
+    +include('public/home/_partial2_nav')
+    .site-wrapper
+        .site-body
+            +include('public/prog1/_partial')
+        +include('public/home/_partial10_footer')
+
++section('jsPagina')
+    script(src!="{{ asset('js/prog.min.js')}}", type="text/javascript")

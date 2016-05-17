@@ -30,3 +30,7 @@ Route::group(['middleware' => ['web']], function () {
     //
 });
 Route::get('/', ['as'=>'public.home', 'uses'=>'PublicController@home']);
+Route::get('/prog1', ['as'=>'public.prog1', 'uses'=>'PublicController@prog1']);
+Route::get('/prog2', ['as'=>'public.prog2', 'uses'=>'PublicController@prog2']);
+Route::get('/prog3', ['as'=>'public.prog3', 'uses'=>'PublicController@prog3']);
+Route::get('/prog4', ['as'=>'public.prog4', 'uses'=>'PublicController@prog4']);
