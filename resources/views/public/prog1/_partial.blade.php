@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1 class="page-title text-center">Moon Girl<small>Showing images in the most simple way!</small>
+            <h1 class="page-title text-center">Inovar Móveis<small>Showing images in the most simple way!</small>
             </h1>
           </div>
         </div>
@@ -17,13 +17,13 @@
           <div class="row">
             <div class="col-md-12">
               <div class="media">
-                <figure><img src="{{asset('')}}"/></figure>
-                <figure><img src="{{asset('')}}"/></figure>
-                <figure><img src="{{asset('')}}"/></figure>
-                <figure><img src="{{asset('')}}"/></figure>
-                <figure><img src="{{asset('')}}"/></figure>
-                <figure><img src="{{asset('')}}"/></figure>
-                <figure><img src="{{asset('')}}"/></figure>
+                <figure><img src="{{asset('img/portfolio/proj/1/atemporale_design_inovar_moveis2.jpg')}}"/></figure>
+                <figure><img src="{{asset('img/portfolio/proj/1/atemporale_design_inovar_moveis8.jpg')}}"/></figure>
+                <figure><img src="{{asset('img/portfolio/proj/1/atemporale_design_inovar_moveis44.jpg')}}"/></figure>
+                <figure><img src="{{asset('img/portfolio/proj/1/atemporale_design_inovar_moveis9.jpg')}}"/></figure>
+                <figure><img src="{{asset('img/portfolio/proj/1/atemporale_design_inovar_moveis4.jpg')}}"/></figure>
+                <figure><img src="{{asset('img/portfolio/proj/1/atemporale_design_inovar_moveis3.jpg')}}"/></figure>
+                <figure><img src="{{asset('img/portfolio/proj/1/atemporale_design_inovar_moveis.gif')}}"/></figure>
               </div>
             </div>
           </div>

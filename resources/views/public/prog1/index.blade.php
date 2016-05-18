@@ -1,16 +1,15 @@
 @extends('template/index')
 
 @section('Title')
-
-<title>Testo da inserire</title>@stop
+Atemporale Design para Inovar Móveis@stop
 
 @section('MetaDescription')
 
-<meta name="description" content="aaa"/>@stop
+<meta name="description" content="Estratégia de Design desnvolvida por Atemporale Design para a Marcenaria Inovar Móveis BH"/>@stop
 
 @section('MetaKeywords')
 
-<meta name="keywords" content="aaa, aaa, aaa"/>@stop
+<meta name="keywords" content="Atemporale Design, Projetos, Identidade Visual, Estratégia de comunicação, Marcenaria, Inovar Móveis"/>@stop
 
 @section('cssPagina')
 
